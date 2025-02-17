@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=rygold4&label=Profile%20views&color=0e75b6&style=flat" alt="rygold4" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/rygold4/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rygold4" alt="Trophées GitHub" />
-  </a>
-</p>
 
 ---
 
