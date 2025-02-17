@@ -26,7 +26,7 @@ Je suis un étudiant en fin de licence à l'Université Grenoble-Alpes, spécial
 <h3 align="left">Connectez avec moi :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ryadfasla" target="_blank">LinkedIn</a> • 
-  <a href="[https://www.linkedin.com/in/ryadfasla](https://www.instagram.com/fasla.ryad/)" target="_blank">Instagram</a> •
+  <a href="https://www.instagram.com/fasla.ryad/" target="_blank">Instagram</a> •
   <a href="mailto:faslaryadpro@gmail.com">Email</a>
 </p>
 
