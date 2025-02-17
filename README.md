@@ -2,12 +2,12 @@
 <h3 align="center">Étudiant, Développeur et Passionné d'Innovation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryadfasla&label=Profile%20views&color=0e75b6&style=flat" alt="ryadfasla" />
+  <img src="https://komarev.com/ghpvc/?username=rygold4&label=Profile%20views&color=0e75b6&style=flat" alt="rygold4" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryadfasla/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryadfasla" alt="Trophées GitHub" />
+  <a href="https://github.com/rygold4/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rygold4" alt="Trophées GitHub" />
   </a>
 </p>
 
@@ -61,15 +61,15 @@ Je suis un étudiant en fin de licence à l'Université Grenoble-Alpes, spécial
 <h3 align="left">Quelques Statistiques GitHub :</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryadfasla&show_icons=true&locale=en&layout=compact" alt="ryadfasla" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rygold4&show_icons=true&locale=en&layout=compact" alt="rygold4" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryadfasla&show_icons=true&locale=en" alt="ryadfasla" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rygold4&show_icons=true&locale=en" alt="rygold4" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryadfasla" alt="ryadfasla" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rygold4" alt="rygold4" />
 </p>
 
 ---
