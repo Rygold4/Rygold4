@@ -10,7 +10,7 @@
 
 ## À propos de moi
 
-Je suis un étudiant en fin de licence à l'Université Grenoble-Alpes, spécialisé en informatique. Passionné par le développement, je combine rigueur, créativité et énergie dans chacun de mes projets – qu'il s'agisse d'automatiser des tâches répétitives ou de concevoir des applications web innovantes.
+Je suis un étudiant L3 à l'Université Grenoble-Alpes, spécialisé en informatique. Passionné par le développement, je combine rigueur, créativité et énergie dans chacun de mes projets – qu'il s'agisse d'automatiser des tâches répétitives ou de concevoir des applications web innovantes.
 
 - 🔭 Actuellement, je travaille sur **des projets d'automatisation et de développement web**.
 - 🌱 J'apprends continuellement de nouvelles technologies, allant de Python et C à des frameworks modernes.
