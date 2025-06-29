@@ -72,9 +72,7 @@ Je suis un étudiant L3 à l'Université Grenoble-Alpes, spécialisé en informa
 
 <h3 align="left">Quelques Statistiques GitHub :</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rygold4&show_icons=true&locale=en&layout=compact" alt="rygold4" />
-</p>
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rygold4&show_icons=true&locale=en" alt="rygold4" />
